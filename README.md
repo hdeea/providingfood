@@ -1,40 +1,16 @@
-# Welcome to your Lovable project
+# Welcome to your project
 
 ## Project info
+Project Information This project uses Vite, TypeScript, React, shadcn-ui, and Tailwind CSS to create a fast and smooth user experience.
 
-**URL**: https://lovable.dev/projects/e2b438a3-840d-48a6-87d8-7ad6df7852db
-
-## How can I edit this code?
-
-There are several ways of editing your application.
-
-**Use Lovable**
-
-Simply visit the [Lovable Project](https://lovable.dev/projects/e2b438a3-840d-48a6-87d8-7ad6df7852db) and start prompting.
-
-Changes made via Lovable will be committed automatically to this repo.
-
-**Use your preferred IDE**
-
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
-
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
-
-Follow these steps:
+How to Edit the Code You can work locally using your preferred IDE by cloning the repository and pushing changes.
 
 ```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
+git clone <YOUR_GIT_URL>  
+cd <YOUR_PROJECT_NAME>  
+npm install  
+npm run dev  
 
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
-
-# Step 3: Install the necessary dependencies.
-npm i
-
-# Step 4: Start the development server with auto-reloading and an instant preview.
-npm run dev
-```
 
 **Edit a file directly in GitHub**
 
@@ -60,14 +36,9 @@ This project is built with:
 - shadcn-ui
 - Tailwind CSS
 
-## How can I deploy this project?
+## How to Deploy the Project You can deploy the project directly using your platform's controls or by pushing changes to the repository.
 
-Simply open [Lovable](https://lovable.dev/projects/e2b438a3-840d-48a6-87d8-7ad6df7852db) and click on Share -> Publish.
+Custom Domain Setup You can add a custom domain to your project through the Domains section in settings.
 
-## Can I connect a custom domain to my Lovable project?
 
-Yes, you can!
 
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
-
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/tips-tricks/custom-domain#step-by-step-guide)
